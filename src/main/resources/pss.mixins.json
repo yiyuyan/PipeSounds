@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.pss.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "pss.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "DisconnectedScreenMixin",
+    "MinecraftMixin",
+    "TitleScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

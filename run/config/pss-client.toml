@@ -1,0 +1,7 @@
+start = true
+quit = true
+crash = true
+join = true
+leave_world = true
+disconnect = true
+
